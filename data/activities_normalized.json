@@ -34695,5 +34695,31 @@
     "start_date_local": "2026-03-12T16:12:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "17711902207",
+    "moving_time": 2286.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-13T15:52:43Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 61737.8,
+    "elevation_gain": 0.0,
+    "id": "17720561852",
+    "moving_time": 6642.0,
+    "name": "TrainingPeaks Virtual - Workout: Lactate Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T09:09:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

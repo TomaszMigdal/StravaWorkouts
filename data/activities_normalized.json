@@ -34721,5 +34721,31 @@
     "start_date_local": "2026-03-14T09:09:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 65350.1,
+    "elevation_gain": 0.0,
+    "id": "17732232882",
+    "moving_time": 7212.0,
+    "name": "TrainingPeaks Virtual - Workout: Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T08:22:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 5657.8,
+    "elevation_gain": 43.0,
+    "id": "17733010946",
+    "moving_time": 1801.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T10:35:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

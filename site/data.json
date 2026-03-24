@@ -24137,6 +24137,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17819998562",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 16,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17833307608",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47558,6 +47567,15 @@
           "distance": 2200.0,
           "elevation_gain": 0.0,
           "moving_time": 2377.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17833307608"
+          ],
+          "count": 1,
+          "distance": 3500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4070.0
         }
       },
       "VirtualRide": {
@@ -48001,7 +48019,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T16:05:40.807693+00:00",
+  "generated_at": "2026-03-24T16:13:42.289591+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

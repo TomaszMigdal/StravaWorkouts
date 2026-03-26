@@ -34890,5 +34890,31 @@
     "start_date_local": "2026-03-24T17:02:49Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 1395.2,
+    "elevation_gain": 9.0,
+    "id": "17859076645",
+    "moving_time": 450.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T18:21:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 16144.5,
+    "elevation_gain": 76.0,
+    "id": "17859076803",
+    "moving_time": 5028.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T16:48:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

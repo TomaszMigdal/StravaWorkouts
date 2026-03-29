@@ -24191,6 +24191,42 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/17876427990",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 8,
+      "name": "TrainingPeaks Virtual - Workout: LT1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17890619705",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17893235896",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 8,
+      "name": "TrainingPeaks Virtual - Workout: LT2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17900585143",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17901931047",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47431,6 +47467,15 @@
           "distance": 17539.7,
           "elevation_gain": 85.0,
           "moving_time": 5478.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17893235896"
+          ],
+          "count": 1,
+          "distance": 12155.4,
+          "elevation_gain": 89.0,
+          "moving_time": 3602.0
         }
       },
       "Swim": {
@@ -48097,11 +48142,30 @@
           "distance": 52568.4,
           "elevation_gain": 0.0,
           "moving_time": 5506.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17890619705"
+          ],
+          "count": 1,
+          "distance": 140117.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14532.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17900585143",
+            "17901931047"
+          ],
+          "count": 2,
+          "distance": 79288.90000000001,
+          "elevation_gain": 242.6,
+          "moving_time": 8639.0
         }
       }
     }
   },
-  "generated_at": "2026-03-28T15:39:37.901635+00:00",
+  "generated_at": "2026-03-29T15:41:02.459095+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

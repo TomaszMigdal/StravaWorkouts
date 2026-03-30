@@ -24227,6 +24227,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17901931047",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17903490150",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47476,6 +47485,15 @@
           "distance": 12155.4,
           "elevation_gain": 89.0,
           "moving_time": 3602.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17903490150"
+          ],
+          "count": 1,
+          "distance": 12424.6,
+          "elevation_gain": 66.0,
+          "moving_time": 3727.0
         }
       },
       "Swim": {
@@ -48165,7 +48183,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T15:41:02.459095+00:00",
+  "generated_at": "2026-03-30T16:10:24.170599+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

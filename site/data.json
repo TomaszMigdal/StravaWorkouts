@@ -24245,6 +24245,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/17917736438",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 16,
+      "name": "TrainingPeaks Virtual - Workout: VO2 Bike",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17930864875",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48197,11 +48206,20 @@
           "distance": 79288.90000000001,
           "elevation_gain": 242.6,
           "moving_time": 8639.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17930864875"
+          ],
+          "count": 1,
+          "distance": 51336.4,
+          "elevation_gain": 0.0,
+          "moving_time": 5475.0
         }
       }
     }
   },
-  "generated_at": "2026-03-31T16:11:09.877677+00:00",
+  "generated_at": "2026-04-01T16:10:56.649066+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

@@ -24263,6 +24263,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17943597735",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 17,
+      "name": "TrainingPeaks Virtual - Forest Velodrome",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17955527808",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 6,
+      "name": "TrainingPeaks Virtual - Workout: LT1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17963159151",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48233,11 +48251,29 @@
           "distance": 51336.4,
           "elevation_gain": 0.0,
           "moving_time": 5475.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17955527808"
+          ],
+          "count": 1,
+          "distance": 53639.2,
+          "elevation_gain": 0.0,
+          "moving_time": 5470.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17963159151"
+          ],
+          "count": 1,
+          "distance": 134899.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14500.0
         }
       }
     }
   },
-  "generated_at": "2026-04-02T16:06:59.547205+00:00",
+  "generated_at": "2026-04-03T15:47:43.219121+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

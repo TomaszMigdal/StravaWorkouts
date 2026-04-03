@@ -35046,5 +35046,31 @@
     "start_date_local": "2026-04-01T17:04:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 53639.2,
+    "elevation_gain": 0.0,
+    "id": "17955527808",
+    "moving_time": 5470.0,
+    "name": "TrainingPeaks Virtual - Forest Velodrome",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-02T17:21:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 134899.0,
+    "elevation_gain": 0.0,
+    "id": "17963159151",
+    "moving_time": 14500.0,
+    "name": "TrainingPeaks Virtual - Workout: LT1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T06:24:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

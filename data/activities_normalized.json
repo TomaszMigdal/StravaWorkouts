@@ -35189,5 +35189,44 @@
     "start_date_local": "2026-04-11T07:53:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 134965.0,
+    "elevation_gain": 204.8,
+    "id": "18068692236",
+    "moving_time": 14593.0,
+    "name": "Morning Ride LT1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-11T07:53:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 10444.9,
+    "elevation_gain": 51.0,
+    "id": "18070548370",
+    "moving_time": 3173.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T13:50:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 72045.8,
+    "elevation_gain": 0.0,
+    "id": "18081316920",
+    "moving_time": 7306.0,
+    "name": "TrainingPeaks Virtual - Workout: LT2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T08:58:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

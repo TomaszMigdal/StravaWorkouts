@@ -35228,5 +35228,18 @@
     "start_date_local": "2026-04-12T08:58:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 11500.8,
+    "elevation_gain": 67.0,
+    "id": "18082472825",
+    "moving_time": 3603.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T11:17:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

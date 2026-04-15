@@ -35254,5 +35254,18 @@
     "start_date_local": "2026-04-13T16:40:05Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 52880.6,
+    "elevation_gain": 0.0,
+    "id": "18111150798",
+    "moving_time": 5517.0,
+    "name": "TrainingPeaks Virtual - Workout: VO2 Bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T16:58:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

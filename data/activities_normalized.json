@@ -35397,5 +35397,44 @@
     "start_date_local": "2026-04-22T16:28:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 30066.8,
+    "elevation_gain": 0.0,
+    "id": "18231540092",
+    "moving_time": 3158.0,
+    "name": "TrainingPeaks Virtual - Workout: LT1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-23T16:43:16Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 4802.8,
+    "elevation_gain": 0.0,
+    "id": "18231621469",
+    "moving_time": 549.0,
+    "name": "TrainingPeaks Virtual - Workout: LT1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-23T17:38:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "18238404901",
+    "moving_time": 2288.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-24T07:52:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

@@ -35436,5 +35436,31 @@
     "start_date_local": "2026-04-24T07:52:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 8880.3,
+    "elevation_gain": 45.0,
+    "id": "18244828964",
+    "moving_time": 2902.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T18:33:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 66287.3,
+    "elevation_gain": 0.0,
+    "id": "18253328940",
+    "moving_time": 7219.0,
+    "name": "TrainingPeaks Virtual - Workout: Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-25T08:44:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

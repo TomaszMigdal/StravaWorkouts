@@ -36021,5 +36021,18 @@
     "start_date_local": "2026-06-14T08:38:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 1800.0,
+    "elevation_gain": 0.0,
+    "id": "18935133489",
+    "moving_time": 2135.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-15T17:06:03Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

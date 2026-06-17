@@ -24947,6 +24947,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18935133489",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 16,
+      "name": "TrainingPeaks Virtual - Workout: Easy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18949921461",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18951088908",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48432,6 +48450,15 @@
           "distance": 11583.7,
           "elevation_gain": 58.0,
           "moving_time": 3686.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18951088908"
+          ],
+          "count": 1,
+          "distance": 11012.1,
+          "elevation_gain": 60.0,
+          "moving_time": 3629.0
         }
       },
       "Swim": {
@@ -49587,11 +49614,20 @@
           "distance": 97399.6,
           "elevation_gain": 0.0,
           "moving_time": 10884.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18949921461"
+          ],
+          "count": 1,
+          "distance": 32983.9,
+          "elevation_gain": 0.0,
+          "moving_time": 3616.0
         }
       }
     }
   },
-  "generated_at": "2026-06-16T18:56:42.705968+00:00",
+  "generated_at": "2026-06-17T17:51:44.508980+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

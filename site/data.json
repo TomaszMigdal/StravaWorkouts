@@ -25010,6 +25010,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19011735212",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19042610077",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48522,6 +48531,15 @@
           "distance": 5858.7,
           "elevation_gain": 30.0,
           "moving_time": 1765.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19042610077"
+          ],
+          "count": 1,
+          "distance": 10709.0,
+          "elevation_gain": 65.0,
+          "moving_time": 3603.0
         }
       },
       "Swim": {
@@ -49717,7 +49735,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T17:20:55.746140+00:00",
+  "generated_at": "2026-06-24T17:11:42.671342+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/13867521",
   "repo": "TomaszMigdal/StravaWorkouts",

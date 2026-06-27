@@ -36177,5 +36177,18 @@
     "start_date_local": "2026-06-25T16:42:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 67349.7,
+    "elevation_gain": 0.0,
+    "id": "19087528274",
+    "moving_time": 7216.0,
+    "name": "TrainingPeaks Virtual - Workout: Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-27T09:37:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
